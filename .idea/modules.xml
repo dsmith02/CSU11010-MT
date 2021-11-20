@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayMonthYearTutorial/DayMonthYearTutorial.iml" filepath="$PROJECT_DIR$/DayMonthYearTutorial/DayMonthYearTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First&amp;Passes/First&amp;Passes.iml" filepath="$PROJECT_DIR$/First&amp;Passes/First&amp;Passes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionReviewLecturer/FunctionReviewLecturer.iml" filepath="$PROJECT_DIR$/FunctionReviewLecturer/FunctionReviewLecturer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCD/GCD.iml" filepath="$PROJECT_DIR$/GCD/GCD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeConverter/GradeConverter.iml" filepath="$PROJECT_DIR$/GradeConverter/GradeConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerMultiples/IntegerMultiples.iml" filepath="$PROJECT_DIR$/IntegerMultiples/IntegerMultiples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introduction to Programming.iml" filepath="$PROJECT_DIR$/Introduction to Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsPerfectSquare/IsPerfectSquare.iml" filepath="$PROJECT_DIR$/IsPerfectSquare/IsPerfectSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leap Year/Leap Year.iml" filepath="$PROJECT_DIR$/Leap Year/Leap Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leap Year For Loop/Leap Year For Loop.iml" filepath="$PROJECT_DIR$/Leap Year For Loop/Leap Year For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Months&amp;Days/Months&amp;Days.iml" filepath="$PROJECT_DIR$/Months&amp;Days/Months&amp;Days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimesUpToN/PrimesUpToN.iml" filepath="$PROJECT_DIR$/PrimesUpToN/PrimesUpToN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RangeOfHeights/RangeOfHeights.iml" filepath="$PROJECT_DIR$/RangeOfHeights/RangeOfHeights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sandbox/Sandbox.iml" filepath="$PROJECT_DIR$/Sandbox/Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/StoppingDistance (ASSIGNMENT).iml" filepath="$PROJECT_DIR$/untitled/StoppingDistance (ASSIGNMENT).iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoppingDistance2/StoppingDistance2.iml" filepath="$PROJECT_DIR$/StoppingDistance2/StoppingDistance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoppingDistance3/StoppingDistance3.iml" filepath="$PROJECT_DIR$/StoppingDistance3/StoppingDistance3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" filepath="$PROJECT_DIR$/Ternary Operator/Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vertebrate Class/Vertebrate Class.iml" filepath="$PROJECT_DIR$/Vertebrate Class/Vertebrate Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileTutorial/WhileTutorial.iml" filepath="$PROJECT_DIR$/WhileTutorial/WhileTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileTutorial2/WhileTutorial2.iml" filepath="$PROJECT_DIR$/WhileTutorial2/WhileTutorial2.iml" />
+    </modules>
+  </component>
+</project>
