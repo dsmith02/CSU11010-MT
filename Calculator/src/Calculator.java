@@ -2,6 +2,7 @@ public class Calculator {
 
     public static void main(String[] args)
     {
+        System.out.println("Welcome to my first calculator.");
     }
 
     public static int addition(int operandOne, int operandTwo)
