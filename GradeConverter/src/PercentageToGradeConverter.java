@@ -1,22 +1,7 @@
 import java.util.Scanner;
 
-public class PercentageToGradeConverter {
-
-    /*  SELF ASSESSMENT of whether my code is easy to understand.
-       1. Did I use easy-to-understand meaningful variable names?
-           Mark out of 5: 5
-           Comment: Yep.
-       2. Did I format the variable names properly (in lowerCamelCase)?
-           Mark out of 5: 5
-           Comment: Yes.
-       3. Did I indent the code appropriately?
-           Mark out of 5: 5
-           Comment: I've inspected it and got IntelliJ to reformat the code automatically.
-       4. Did I implement a switch statement as required?
-           Mark out of 10: 10
-           Comment: Yes, implemented in printGradeClass function.
-         Total Mark out of  25 (Add all the previous marks): 25
-    */
+public class PercentageToGradeConverter
+{
 
     public static final double MAXIMUM_PERCENTAGE = 100.0;
     public static final double MINIMUM_PERCENTAGE = 0.0;
